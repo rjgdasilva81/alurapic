@@ -11,7 +11,7 @@
     "git.autorefresh": true,
 
     // Whether auto fetching is enabled.
-    "git.autofetch": true,
+    "git.autofetch": false,
 
     // Whether long commit messages should be warned about.
     "git.enableLongCommitWarning": true,
